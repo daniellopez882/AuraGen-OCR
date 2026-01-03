@@ -1,7 +1,7 @@
-﻿# 🌟 AuraGen-OCR 🌟
+﻿﻿# 🌟 AuraGen-OCR 🌟
 
 <p align="center">
-  <img src="static/images/excerpt.png" alt="AuraGen-OCR Banner" width="600px">
+  
 </p>
 
 <p align="center">
@@ -32,32 +32,13 @@
 
 ---
 
-## 📂 Project Showcase
 
-| Detection | OCR |
-| :---: | :---: |
-| <img src="static/images/excerpt.png" width="350px"/> | <img src="static/images/excerpt_text.png" width="350px"/> |
-
-| Layout | Reading Order |
-| :---: | :---: |
-| <img src="static/images/excerpt_layout.png" width="350px"/> | <img src="static/images/excerpt_reading.jpg" width="350px"/> |
-
-| Table Recognition | LaTeX OCR |
-| :---: | :---: |
-| <img src="static/images/scanned_tablerec.png" width="350px"/> | <img src="static/images/latex_ocr.png" width="350px"/> |
-
----
 
 ## 🛠️ Installation
 
-### Quick Install
-AuraGen-OCR requires Python 3.10+ and PyTorch.
 
-```bash
-pip install auragen-ocr
-```
 
-### Manual Setup (For Developers)
+### Setup (For Developers)
 ```bash
 git clone https://github.com/daniellopez882/AuraGen-OCR.git
 cd AuraGen-OCR
