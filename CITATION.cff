@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "AuraGen-OCR: Advanced document OCR, layout, reading order, and table recognition toolkit"
+authors:
+  - family-names: Lopez
+    given-names: Daniel
+date-released: 2026-01-03
+url: https://github.com/daniellopez882/AuraGen-OCR
+version: 1.0.0
+repository-code: https://github.com/daniellopez882/AuraGen-OCR
