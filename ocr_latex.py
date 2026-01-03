@@ -2,4 +2,8 @@
 
 if __name__ == "__main__":
     ocr_latex_cli()
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> origin/main

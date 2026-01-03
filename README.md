@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿﻿# 🌟 AuraGen-OCR 🌟
+=======
+﻿# 🌟 AuraGen-OCR 🌟
+>>>>>>> origin/main
 
 <p align="center">
   

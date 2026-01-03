@@ -2,4 +2,8 @@
 
 if __name__ == "__main__":
     detect_layout_cli()
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> origin/main

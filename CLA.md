@@ -21,4 +21,8 @@ If you or your affiliates institute patent litigation against any entity (includ
    - to the best of your knowledge, each contribution will not violate any third party's copyrights, trademarks, patents, or other intellectual property rights; and 
    - each contribution shall be in compliance with U.S. export control laws and other applicable export and import laws.
 You agree to notify us if you become aware of any circumstance which would make any of the foregoing representations inaccurate in any respect. Endless Labs, Inc. may publicly disclose your participation in the project, including the fact that you have signed the SCA. 
+<<<<<<< HEAD
 6. This SCA is governed by the laws of the State of California and applicable U.S. Federal law. Any choice of law rules will not apply.
+=======
+6. This SCA is governed by the laws of the State of California and applicable U.S. Federal law. Any choice of law rules will not apply.
+>>>>>>> origin/main
