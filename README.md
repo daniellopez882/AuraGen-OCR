@@ -36,14 +36,9 @@
 
 ## 🛠️ Installation
 
-### Quick Install
-AuraGen-OCR requires Python 3.10+ and PyTorch.
 
-```bash
-pip install auragen-ocr
-```
 
-### Manual Setup (For Developers)
+### Setup (For Developers)
 ```bash
 git clone https://github.com/daniellopez882/AuraGen-OCR.git
 cd AuraGen-OCR
